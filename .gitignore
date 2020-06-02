@@ -1,0 +1,8 @@
+package-lock.json
+
+.DS_Store
+
+/.vscode/settings.json
+
+.nuxt/
+/node_modules
